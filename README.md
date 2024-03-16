@@ -1,7 +1,7 @@
 # Shopping Cart
 
 ## Description of the project:
- This is a standalone React application showcasing a shopping cart template for a website. Users can view restocked products using Strapi tools and interact by adding products to the cart, dynamically updating the checkout total. The cart includes the option to remove products. 
+ This is a standalone React application showcasing a shopping cart template for a website. Users can view restocked products using Strapi tools and interact by adding products to the cart, dynamically updating the checkout total. The cart includes the option to remove products. Additionally, there's a feature where the product pictures update every time you reload the page from [picsum](https://picsum.photos/). I encourage you to explore this fantastic source for random pictures. Requests are made through the URL, allowing you to specify characteristics such as color and size for your pictures. You can learn more about this functionality on Picsum's website.
 
 ## How to Run:
 This project was initiated using the standalone React method, which connects with the browser as follows: primarily fork it to your local computer, then:
