@@ -43,7 +43,7 @@ You should see output similar to the following:
 ### Open your web browser and enter `localhost:8080` in the address bar. 
 The website should load and display the information. If you make updates in VSCode and they're not reflected after reloading the page, be sure to clear the cache.
 
-*NOTE*please be aware that you need to create your own database through strapi and keep it running before interacting with the buttom restoking. Read more about strapi here [here](https://docs.strapi.io/dev-docs/quick-start#_1-install-strapi-and-create-a-new-project:~:text=Quick%20Start%20Guide-,Quick%20Start%20Guide,-Strapi%20offers%20a) please be aware you will need some prerequisites before creating a  strapi app. read details in the link shared with you above. once you have your won personal link for your database , make sure to put it in the space where my link is.
+*NOTE* Please note that before interacting with the restocking button, you need to create your own database using Strapi and ensure it is running. You can learn more about Strapi [here](https://docs.strapi.io/dev-docs/quick-start#_1-install-strapi-and-create-a-new-project). Keep in mind that there are prerequisites to setting up a Strapi app, which you can find detailed information about in the provided link. Once you have your personal database link, make sure to replace my link with yours in the designated space. 
 
 
 ## Roadmap of future improvements:
